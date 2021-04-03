@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spectclient",
+  "name": "SpectClient",
+  "description": " A Minecraft 1.12.2 Hacked Client",
+  "version": "0.5.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SaberAspect"],
+  "credits": "Nobody but my self",
+  "logoFile": "SpectClient Logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

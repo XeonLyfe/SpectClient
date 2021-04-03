@@ -1,4 +1,4 @@
-GitHub all releases Lines of code Discord GitHub
+<a href="#" class="button pill">This is a pill button</a>
 
 
 SpectClient is a client that runs of Minecraft Forge 1.12.2, it is intended for use on servers which allow client-side modification. SpectClient takes inspiration from many previous clients like Impact, kami, salHack, and others. this client uses a custom event system, custom clickGui library, and Forge's 1.12.2 mod api. The main intent for this project to be community driven and as open as possible, open access, open development, and open sourced.

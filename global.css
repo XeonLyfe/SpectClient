@@ -19,7 +19,7 @@ ul.list li{
   position: relative;
 }
 ul.list li:hover{
- backbround-color: #000; 
+ background-color: #000; 
 }
 
 ul.sub-menu{

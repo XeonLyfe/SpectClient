@@ -17,10 +17,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#000000">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="shortcut icon" type="image/png" href="SpectClient Logo2.png">
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    <meta content="/SpectClient Logo2.png" property="og:image">
+    <meta content="/favicon.png" property="og:image">
   </head>
   <body>
 
@@ -31,7 +31,8 @@
         <a href="{{ site.github.repository_url }}" class="btn">github</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="{{site.github.jar_url}}" class="btn">download</a>
+        <a href="{{ site.github.jar_url }}" class="btn">download</a>
+        <a href="{{ site.github.discord_url }}" class="btn">discord</a>
       {% endif %}
     </header>
 

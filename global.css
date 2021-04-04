@@ -7,6 +7,7 @@ ul.list{
   width: auto;
   list-style-type: none;
   box-shadow: 0 0 10px 0 #000;
+  margin-top: 10vh;
   
 }
 ul.list li{

@@ -1,14 +1,14 @@
-*{morgin:0; padding:0;}
+*{margin:0; padding:0;}
 body{background: #212121;}
 ul.list{
   color: #fff;
-  background-clolor: #0f0f0f;
+  background-color: #0f0f0f;
   display: inline-block;
   width: auto;
   list-style-type: none;
 }
 ul.list li{
     display: inline-block;
-  padding: 20px 20px;
+  padding: 15px 40px;
   berder-radius: 5px;
 }

@@ -7,7 +7,7 @@
    <ul class="list">
      <li>Player</li>
      <li>Visual</li>
-     <li>Combat</li>
+     <li>Coambat</li>
      <li>Another</li>
 
     </ul>

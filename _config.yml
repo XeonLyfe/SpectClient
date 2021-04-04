@@ -3,7 +3,6 @@ description: A 1.12.2 anarchy client
 show_downloads: true
 github:
   repository_url: https://github.com/SaberAspect/SpectClient
-  discord_url: https://discord.gg/Jd8EmEuhb5
   jar_url: https://github.com/SaberAspect/SpectClient/releases/download/0.5.0/SpectClient.jar
 cur_ver: 0.5.0
 theme: jekyll-theme-cayman

@@ -27,7 +27,7 @@ ul.sub-menu{
       position: absolute;
       display: block;
       box-shadow: 0 0 10px 0 #000;
-      margin-left: -35px;
+      margin-left: -25px;
 }
 ul.sub-menu li {
     position: relative;

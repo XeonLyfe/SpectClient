@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title></title>
@@ -6,13 +5,10 @@
   </head>
   <body>
    <ul class="list">
-     <li>Home</li>
-     <li>Home1</li>
-     <li>Home2</li>
-     <li>Home3</li>
-     <li>Home4</li>
-     <li>Home5</li>
-     <li>Home6</li>
+     <li>Player</li>
+     <li>Visual</li>
+     <li>Combat</li>
+     <li>Another</li>
 
     </ul>
    </body>

@@ -7,7 +7,7 @@ check out the website - https://saberaspect.github.io/SpectClient/.
 
 
 
-# instructions
+# Instructions
  download
 
 1. SpectClient uses forge in order to run so, if you havent already, go to http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html and download the latest or recommended version of forge 1.12.2.
@@ -31,7 +31,7 @@ gradlew setupDecompWorkspace
 gradlew eclipse (for eclipse) or gradlew genIntellijRuns (for intellij)
 (./gradlew for linux and mac users)
 
-# credits
+# Credits
 
 contributions
 

@@ -32,7 +32,7 @@ ul.list li:hover > ul{
 ul.sub-menu{
       position: absolute;
       box-shadow: 0 0 10px 0 #000;
-      margin-left: -30px;
+      margin-left: -35px;
 }
 ul.sub-menu li {
     position: relative;

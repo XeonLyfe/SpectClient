@@ -10,7 +10,7 @@ check out the website - https://saberaspect.github.io/SpectClient/.
 # instructions
  download
 
-1.SpectClient uses forge in order to run so, if you havent already, go to http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html and download the latest or recommended version of forge 1.12.2.
+1. SpectClient uses forge in order to run so, if you havent already, go to http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html and download the latest or recommended version of forge 1.12.2.
 2. At the top of this readme, click on the downloads button and select the latest version, or your preferred version.
 3. Click assets at the bottom of the release, then download the .jar file.
 4. If you havent ran forge yet, do so, if you have already ran forge at least once, type %appdata% in ur windows search, enter, and navigate to .minecraft -> mods (if there is no mods folder than you can add it yourself) -> 1.12.2, "1.12.2" may not exist either, so you can create it yourself if needed. this process may vary depending on your device, so you may need to look it up.

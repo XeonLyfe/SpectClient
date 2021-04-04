@@ -22,8 +22,11 @@ ul.list li{
 ul.list li:hover{
  background-color: #000; 
 }
-ul ul{
+ul.list ul.list{
     display: none;
+}
+ul.list li:hover > ul{
+    display: block;
 }
 
 ul.sub-menu{

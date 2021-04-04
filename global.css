@@ -18,6 +18,7 @@ ul.list li{
   border-bottom: 2px solid #0f0f0f;
   position: relative;
 }
+
 ul.list li:hover{
  background-color: #000; 
 }

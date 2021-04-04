@@ -22,6 +22,9 @@ ul.list li{
 ul.list li:hover{
  background-color: #000; 
 }
+ul ul{
+    display: none;
+}
 
 ul.sub-menu{
       position: absolute;

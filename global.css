@@ -6,9 +6,15 @@ ul.list{
   display: inline-block;
   width: auto;
   list-style-type: none;
+  box-shadow: 0 0 10px 0 #000;
+  
 }
 ul.list li{
     display: inline-block;
   padding: 15px 40px;
   berder-radius: 5px;
+    background-color: #212121;
+    border-bottom: 2px solid #0f0f0f;
+
+  
 }

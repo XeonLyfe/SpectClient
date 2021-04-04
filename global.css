@@ -31,7 +31,6 @@ ul.list li:hover > ul{
 
 ul.sub-menu{
       position: absolute;
-      display: block;
       box-shadow: 0 0 10px 0 #000;
       margin-left: -30px;
 }

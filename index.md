@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <title></title>
@@ -5,20 +6,13 @@
   </head>
   <body>
    <ul class="list">
-     <li>Player
-         <ul>
-           <li>SubMenu1</li>
-            <li>SubMenu2</li>
-           <li>SubMenu3</li>
-           <li>SubMenu4</li>
-
-              
-           </ul>
-     </li>
+     <li>Player</li>
      <li>Visual</li>
      <li>Coambat</li>
+              <ul class="sub-menu">
+                <li>KillAura</li>
+                <li>Criticals</li>
      <li>Another</li>
-
     </ul>
    </body>
    </html>

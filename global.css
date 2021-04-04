@@ -18,6 +18,9 @@ ul.list li{
   border-bottom: 2px solid #0f0f0f;
   position: relative;
 }
+ul.list li:hover{
+ backbround-color: #000; 
+}
 
 ul.sub-menu{
       position: absolute;

@@ -30,6 +30,5 @@ ul.sub-menu{
       margin-left: -40px;
 }
 ul.sub-menu li {
-    display: block;
     position: relative;
 }

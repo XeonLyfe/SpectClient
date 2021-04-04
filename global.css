@@ -27,4 +27,5 @@ ul.sub-menu{
 }
 ul.sub-menu li {
     display: block;
+    position: relative;
 }

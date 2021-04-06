@@ -34,7 +34,16 @@ gradlew eclipse (for eclipse) or gradlew genIntellijRuns (for intellij)
 
 
 # GUI
+Gui - with arraylist and hacks activated
 ![SpectClient-gui-for-github](https://user-images.githubusercontent.com/74943836/113787548-3e42d800-9709-11eb-806d-62c5bff2cf89.png)
+
+
+Just the arraylist and other hud modules 
+
+![Just-hud}](https://user-images.githubusercontent.com/74943836/113787730-8d890880-9709-11eb-8bd1-d3a17040c0ef.png)
+
+
+
 
 
 

@@ -33,7 +33,7 @@ gradlew eclipse (for eclipse) or gradlew genIntellijRuns (for intellij)
 (./gradlew for linux and mac users)
 
 
-#GUI
+# GUI
 ![SpectClient-gui-for-github](https://user-images.githubusercontent.com/74943836/113787548-3e42d800-9709-11eb-806d-62c5bff2cf89.png)
 
 

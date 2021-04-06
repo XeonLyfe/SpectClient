@@ -10,22 +10,23 @@ check out the website - https://saberaspect.github.io/Website-for-SpectClient/
 # Instructions
  download
 
-1. SpectClient uses forge in order to run so, if you havent already, go to http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html and download the latest or recommended version of forge 1.12.2.
+1. SpectClient uses forge in order to run. if don't already have forge, go to http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html and download the latest or recommended version of forge 1.12.2.
 2. At the top of this readme, click on the downloads button and select the latest version, or your preferred version.
 3. Click assets at the bottom of the release, then download the .jar file.
-4. If you havent ran forge yet, do so, if you have already ran forge at least once, type %appdata% in ur windows search, enter, and navigate to .minecraft -> mods (if there is no mods folder than you can add it yourself) -> 1.12.2, "1.12.2" may not exist either, so you can create it yourself if needed. this process may vary depending on your device, so you may need to look it up.
-5. Drag the SpectClient.jar file that you downloaded earlier into the 1.12.2 folder.
+4. Type %appdata% in your windows bar and enter. Navigate to .minecraft -> mods (if there is no mods folder than you can add it yourself).
+5. Drag the SpectClient.jar file that you downloaded earlier into the mods folder.
 
 use
 
-* the inital keybind for the clickgui is Left Alt.
-* once the clickgui is opened you will see a bunch of categorys, right click to open them up.
-* each category has different modules you may enable by left clicking, or right clicking to open up their settings.
-* the settings consist of booleans (enable or disable), numbers (sliders to change the value of something), and modes (switches modes).
-* you can rebind each module in the settings by clicking keybind (at the bottom of each modules settings), and clicking the button you want to bind the module to.
-* esc to close the clickgui.
+* The inital keybind for the clickgui is Left Alt.
+* Once the clickgui is opened you will see a bunch of categorys, right click to open them up.
+* Each category has different modules you may enable by left clicking, or right clicking to open up their settings.
+* The settings consist of true or falses, (enable or disable), numbers (sliders to change the value of something), and modes (switches modes).
+* You can rebind each module in the settings by clicking keybind (at the bottom of each modules settings), and clicking the button you want to bind the module to.
+* To remove a keybing, you press like you are going to assign a key then press the del key, not the backspace key.
+* Esc to close the clickgui.
 
-building
+building the client(for programers)
 
 gradlew setupDecompWorkspace
 gradlew eclipse (for eclipse) or gradlew genIntellijRuns (for intellij)
@@ -36,5 +37,7 @@ gradlew eclipse (for eclipse) or gradlew genIntellijRuns (for intellij)
 contributions
 
 Stack overflow, litteraly everything.
+
+srgantmoomoo - gave me alot of ideas.
 
 mod api - Forge http://files.minecraftforge.net.

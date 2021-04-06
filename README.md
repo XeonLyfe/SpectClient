@@ -1,4 +1,3 @@
-![SpectClient-gui-for-github](https://user-images.githubusercontent.com/74943836/113787548-3e42d800-9709-11eb-806d-62c5bff2cf89.png)
 # SpectClient
 SpectClient is a client that runs of Minecraft Forge 1.12.2, it is intended for use on servers which allow client-side modification. SpectClient takes inpiration from many previous clients like osiris, Impact, salhack, and others. This client uses a custom event system, a custom clickGui library, and Forge's 1.12.2 mod api. I intend for this project to be community driven and as open as possible, open access, open development, and open sourced.
 
@@ -32,6 +31,13 @@ building the client(for programers)
 gradlew setupDecompWorkspace
 gradlew eclipse (for eclipse) or gradlew genIntellijRuns (for intellij)
 (./gradlew for linux and mac users)
+
+
+#GUI
+![SpectClient-gui-for-github](https://user-images.githubusercontent.com/74943836/113787548-3e42d800-9709-11eb-806d-62c5bff2cf89.png)
+
+
+
 
 # Credits
 

@@ -3,7 +3,7 @@ SpectClient is a client that runs of Minecraft Forge 1.12.2, it is intended for 
 
 This client is on Minecraft 1.12.2, Forge version 1.12.2-14.23.5.2854, and is coded in 100% java.
 
-check out the website - https://saberaspect.github.io/Website-for-SpectClient/
+check out the website - https://saberaspect.github.io/SpectClient-Website/
 
 
 

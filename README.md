@@ -1,5 +1,4 @@
 
-![GitHub all releases](https://github.com/SaberAspect/spectclient/releases) ![Lines of code](https://github.com/SaberAspect/spectclient/tree/master/src/main/java/me/srgantmoomoo) ![GitHub](https://github.com/SaberAspect/spectclient/blob/master/LICENSE) 
 # SpectClient
 SpectClient is a client that runs of Minecraft Forge 1.12.2, it is intended for use on servers which allow client-side modification. SpectClient takes inpiration from many previous clients like osiris, Impact, salhack, and others. This client uses a custom event system, a custom clickGui library, and Forge's 1.12.2 mod api. I intend for this project to be community driven and as open as possible, open access, open development, and open sourced.
 

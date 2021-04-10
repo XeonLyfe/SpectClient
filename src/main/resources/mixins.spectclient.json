@@ -1,0 +1,31 @@
+{
+"required": true,
+"compatibilityLevel": "JAVA_8",
+"package": "me.SaberAspect.SpectClient.api.mixin.mixins",
+"refmap": "mixins.spectclient.refmap.json",
+"mixins": [
+	"MixinBlockLiquid",
+	"MixinBlockSlimeBlock",
+	"MixinBlockSoulSand",
+	"MixinBlockWeb",
+	"MixinEntity",
+	"MixinEntityPlayer",
+	"MixinEntityPlayerSP",
+	"MixinEntityRenderer",
+	"MixinGuiMainMenu",
+	"MixinGuiPlayerTabOverlay",
+	"MixinGuiScreen",
+	"MixinItemRenderer",
+	"MixinMovementInputFromOptions",
+	"MixinNetworkManager",
+	"MixinGuiIngame",
+	"MixinRender",
+	"MixinRenderLivingBase",
+	"MixinWorld",
+	"MixinMinecraft",
+	"MixinPlayerControllerMP",
+	"MixinAbstractClientPlayer",
+	"MixinRenderPlayer",
+	"accessor.AccessorEntityPlayerSP"
+]
+}
